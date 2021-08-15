@@ -105,7 +105,7 @@ const useStyles = makeStyles({
                 },
 
                 ['@media (max-width: 970px)']: {
-                    overflow: 'scroll',
+                    overflow: 'auto',
                     background: color.white,
                     zIndex: '999',
                     paddingBottom: '80px',
